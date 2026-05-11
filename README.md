@@ -15,5 +15,6 @@ A curated list of amazingly awesome tools for hosting providers. Free open-sourc
 ### Monitoring
 - [Netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 - [SysWatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics in your terminal. The terminal you open when something feels off — before you reach for htop, iostat, nettop, powermetrics, and a notebook full of one-liners.
+- [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 
 ## Services
