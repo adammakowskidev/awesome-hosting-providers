@@ -1,12 +1,11 @@
-# Awesome hosting providers
+# 🔥 Awesome hosting providers
 A curated list of amazingly awesome tools for hosting providers. Free open-source and paid tools designed to help grow your hosting business.
 
-## Table of contents
+## 📖 Table of contents
 - [Software](#software)
   - [Control panels](#control-panels)
   - [Monitoring](#monitoring)
 - [Services](#services)
-
 
  ## Software
  ### Control panels
