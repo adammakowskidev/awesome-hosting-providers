@@ -13,11 +13,12 @@ If you would like your project or your company's services to be included on the 
   - [Control panels](#control-panels)
   - [Web UI](#web-ui)
   - [Monitoring](#monitoring)
+  - [Web Servers and Proxy](web-servers-and-proxy)
   - [Backups](#backups)
   - [Virtualization](#virtualization)
 - [Services](#services)
 
- ## 💾 **Software**
+ ## 💾 **Software and services**
  
  ### Control panels
 - ❤️ [Enhance](https:/enhance.com) - The next-gen hosting control panel. Powerful website and server management with advanced automation, flexible customisation and clustering capabilities.
@@ -32,6 +33,7 @@ If you would like your project or your company's services to be included on the 
 - 💚 [Netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 - 💚 [SysWatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics in your terminal. The terminal you open when something feels off — before you reach for htop, iostat, nettop, powermetrics, and a notebook full of one-liners.
 - 💚 [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+
 ### Web Servers and Proxy
 - 💚 [Apache HTTP Server](https://httpd.apache.org) - The Apache HTTP Server is a free, open-source, and highly popular web server software launched in 1995, developed by the Apache Software Foundation.
 - 💚 [NGINX](https://nginx.org) - nginx ("engine x") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
@@ -40,6 +42,10 @@ If you would like your project or your company's services to be included on the 
 - 💚 [Caddy](https://caddyserver.com) - Caddy is a modern, open-source web server written in Go, renowned for being fast, extensible, and automatically serving sites over HTTPS. It simplifies web hosting by automatically obtaining and renewing SSL/TLS certificates, making it a popular choice for developers needing a secure, low-configuration, or "zero-configuration" server.
 - 💚 [PINGAP](https://github.com/vicanso/pingap) - Pingap is a high-performance reverse proxy powered by the Cloudflare Pingora . It simplifies operational management by enabling dynamic, zero-downtime configuration hot-reloading through concise TOML files and an intuitive web admin interface.
 - 💚 [Zentinel](https://zentinelproxy.io) - Zentinel is a next-generation reverse proxy that combines the performance and reliability of Pingora with advanced routing capabilities, service-type awareness, and comprehensive error handling. Whether you’re serving static files, proxying REST APIs, or managing complex web applications, Zentinel provides the tools and flexibility you need for production deployments.
+
+### CDN, WAF and optimization services
+- [DYNOBLE](https://www.dynoble.net) - Edge acceleration and protection for web apps.
+- [QUIC.cloud](https://www.quic.cloud) - QUIC.cloud CDN is the only CDN available that can cache both static and dynamic WordPress content.
 
 ## 🌐 **Services**
 
