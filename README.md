@@ -14,7 +14,7 @@ A curated list of amazingly awesome tools for hosting providers. Free open-sourc
   - [Monitoring](#monitoring)
 - [Services](#services)
 
- ## Software
+ ## 💾 Software
  ### Control panels
 - ❤️ [Enhance](https:/enhance.com) - The next-gen hosting control panel. Powerful website and server management with advanced automation, flexible customisation and clustering capabilities.
 - 💛 [OpenPanel](https://openpanel.com) - OpenPanel is a multi-user web hosting panel designed around Docker containers. Each user gets their own isolated environment, including separate MySQL server, PHP versions, Redis, and more.
@@ -28,5 +28,5 @@ A curated list of amazingly awesome tools for hosting providers. Free open-sourc
 - 💚 [NGINX](https://nginx.org) - nginx ("engine x") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
 - 💚 [OpenLiteSpeed](https://openlitespeed.org) - OpenLiteSpeed is a high-performance, lightweight, open-source HTTP web server developed by LiteSpeed Technologies. It is designed for maximum speed and scalability, featuring an event-driven architecture that efficiently handles high traffic with low resource consumption. It is particularly popular for accelerating WordPress sites via built-in LiteSpeed Cache.
 - ❤️ [LiteSpeed](https://www.litespeedtech.com/products/litespeed-web-server) - LiteSpeed Web Server (LSWS) is a high-performance, proprietary web server software designed to replace Apache, offering faster page load speeds, lower resource usage (CPU/RAM), and native compatibility with Apache configurations, .htaccess, and modules. It is widely recognized for handling high traffic efficiently using an event-driven architecture, making it a popular choice for WordPress hosting.
-## Services
+## 🌐 Services
 
