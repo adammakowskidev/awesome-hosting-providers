@@ -1,6 +1,5 @@
-# **AWESOME HOSTING PROVIDERS**
 ![Logo](logo.png)
-
+## **AWESOME HOSTING PROVIDERS**
 A curated list of amazingly awesome tools for hosting providers. Free open-source and paid tools designed to help grow your hosting business.
 If you would like your project or your company's services to be included on the list, please contact me.
 
