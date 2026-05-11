@@ -3,7 +3,7 @@
 
 A curated list of amazingly awesome tools for hosting providers. Free open-source and paid tools designed to help grow your hosting business.
 
-**Meaning of the icons**\
+**Meaning of the icons:**\
 💚 - only free versions or open source\
 💛 - free and paid versions\
 ❤️- only paid software or a license
