@@ -44,8 +44,12 @@ If you would like your project or your company's services to be included on the 
 - 💚 [Zentinel](https://zentinelproxy.io) - Zentinel is a next-generation reverse proxy that combines the performance and reliability of Pingora with advanced routing capabilities, service-type awareness, and comprehensive error handling. Whether you’re serving static files, proxying REST APIs, or managing complex web applications, Zentinel provides the tools and flexibility you need for production deployments.
 
 ### CDN, WAF and optimization services
-- [DYNOBLE](https://www.dynoble.net) - Edge acceleration and protection for web apps.
-- [QUIC.cloud](https://www.quic.cloud) - QUIC.cloud CDN is the only CDN available that can cache both static and dynamic WordPress content.
+- ❤️ [DYNOBLE](https://www.dynoble.net) - Edge acceleration and protection for web apps.
+- 💛 [QUIC.cloud](https://www.quic.cloud) - QUIC.cloud CDN is the only CDN available that can cache both static and dynamic WordPress content.
+
+### Security and protection
+- ❤️ [cPFence](https://cpfence.app) - Ultimate Protection for Enhance Servers. Real-time Malware Protection & Instant Cleaning,
+Nginx/Apache/OLS/LS WAF, DDoS Protection, Advanced Spam AutoShield®, Powerful IPDB, and IP/Country Blocking. Now featuring WP AutoShield® for AutoPilot WordPress Security, Owl AutoMySQL® to prevent load spikes, and MonitorPro® for uptime and keyword monitoring—all with no CPU/RAM footprint.
 
 ## 🌐 **Services**
 
