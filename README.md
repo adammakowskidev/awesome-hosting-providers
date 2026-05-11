@@ -25,7 +25,7 @@ If you would like your project or your company's services to be included on the 
 - 💚 [Netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 - 💚 [SysWatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics in your terminal. The terminal you open when something feels off — before you reach for htop, iostat, nettop, powermetrics, and a notebook full of one-liners.
 - 💚 [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-### Web Servers
+### Web Servers and Proxy
 - 💚 [Apache HTTP Server](https://httpd.apache.org) - The Apache HTTP Server is a free, open-source, and highly popular web server software launched in 1995, developed by the Apache Software Foundation.
 - 💚 [NGINX](https://nginx.org) - nginx ("engine x") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
 - 💚 [OpenLiteSpeed](https://openlitespeed.org) - OpenLiteSpeed is a high-performance, lightweight, open-source HTTP web server developed by LiteSpeed Technologies. It is designed for maximum speed and scalability, featuring an event-driven architecture that efficiently handles high traffic with low resource consumption. It is particularly popular for accelerating WordPress sites via built-in LiteSpeed Cache.
