@@ -13,5 +13,6 @@ A curated list of amazingly awesome tools for hosting providers. Free open-sourc
 - [Enhance](https:/enhance.com) - The next-gen hosting control panel. Powerful website and server management with advanced automation, flexible customisation and clustering capabilities.
 ### Monitoring
 - [Netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
+- [SysWatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics in your terminal. The terminal you open when something feels off — before you reach for htop, iostat, nettop, powermetrics, and a notebook full of one-liners.
 
 ## Services
