@@ -19,6 +19,8 @@ A curated list of amazingly awesome tools for hosting providers. Free open-sourc
 - [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 ### Web Servers
 - [Apache HTTP Server](https://httpd.apache.org) - The Apache HTTP Server is a free, open-source, and highly popular web server software launched in 1995, developed by the Apache Software Foundation.
-
+- [NGINX](https://nginx.org) - nginx ("engine x") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.
+- [OpenLiteSpeed](https://openlitespeed.org) - OpenLiteSpeed is a high-performance, lightweight, open-source HTTP web server developed by LiteSpeed Technologies. It is designed for maximum speed and scalability, featuring an event-driven architecture that efficiently handles high traffic with low resource consumption. It is particularly popular for accelerating WordPress sites via built-in LiteSpeed Cache.
+- [LiteSpeed](https://www.litespeedtech.com/products/litespeed-web-server) - LiteSpeed Web Server (LSWS) is a high-performance, proprietary web server software designed to replace Apache, offering faster page load speeds, lower resource usage (CPU/RAM), and native compatibility with Apache configurations, .htaccess, and modules. It is widely recognized for handling high traffic efficiently using an event-driven architecture, making it a popular choice for WordPress hosting.
 ## Services
 
